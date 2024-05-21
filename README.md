@@ -46,3 +46,14 @@ Desempenho: Respostas rápidas às consultas dos usuários.
 Escalabilidade: Suportar um grande número de projetos e usuários.
 Segurança: Proteção dos dados dos usuários e prevenção de acesso não autorizado.
 Usabilidade: Interface amigável e fácil de navegar.
+
+## 5. Arquitetura do Sistema
+### 5.1. Frontend
+Framework: React.js ou Vue.js
+Funcionalidades: Interface de usuário interativa e responsiva.
+### 5.2. Backend
+Linguagem/Framework: Django ou Flask
+Funcionalidades: Lógica de negócios, autenticação de usuários e interação com o banco de dados.
+### 5.3. Banco de Dados
+Tipo: PostgreSQL ou MongoDB
+Utilização: Armazenamento de dados dos usuários, projetos e tarefas.
