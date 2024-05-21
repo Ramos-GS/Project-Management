@@ -28,3 +28,10 @@ Relatórios: Geração de relatórios detalhados sobre o status do projeto e des
 ### 2.6. Comunicação Interna
 Mensagens e Comentários: Permitir a comunicação interna através de mensagens ou comentários em tarefas.
 Notificações: Notificar membros da equipe sobre novos comentários, atribuições de tarefas e mudanças de status.
+
+## 3. Tecnologias Utilizadas
+### 3.1. Back-end
+Framework: Django ou Flask
+Banco de Dados: PostgreSQL ou MongoDB
+### 3.2. Front-end
+Framework: React.js ou Vue.js
