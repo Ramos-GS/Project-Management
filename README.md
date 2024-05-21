@@ -35,3 +35,14 @@ Framework: Django ou Flask
 Banco de Dados: PostgreSQL ou MongoDB
 ### 3.2. Front-end
 Framework: React.js ou Vue.js
+
+## 4. Requisitos do Sistema
+### 4.1. Funcionais
+Interface intuitiva para fácil uso.
+Integração com APIs externas para geração de relatórios.
+Sistema de notificação para comunicação eficaz entre membros da equipe.
+### 4.2. Não Funcionais
+Desempenho: Respostas rápidas às consultas dos usuários.
+Escalabilidade: Suportar um grande número de projetos e usuários.
+Segurança: Proteção dos dados dos usuários e prevenção de acesso não autorizado.
+Usabilidade: Interface amigável e fácil de navegar.
