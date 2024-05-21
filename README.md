@@ -1,4 +1,4 @@
-# Gestão de projectos
+# Gestão de projetos
 
 ### 1. Visão Geral
 
